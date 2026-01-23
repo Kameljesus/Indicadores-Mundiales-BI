@@ -1,4 +1,4 @@
-# 📊 Indicadores Mundiales – Reporte BI
+# 🌍 Indicadores Mundiales – Reporte BI
 
 🎯 Análisis interactivo de indicadores demográficos y sanitarios a escala global.
 
